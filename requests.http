@@ -1,0 +1,6 @@
+
+@endpoint = https://mvyrhhijf9.execute-api.eu-west-1.amazonaws.com/prod
+//the endpoint doesnt work for some reason, need to use full url everytime
+
+GET https://mvyrhhijf9.execute-api.eu-west-1.amazonaws.com/prod/hello/
+###
